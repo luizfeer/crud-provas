@@ -1,6 +1,6 @@
 #  📓✏️ CRUD Provas/Alunos/Matérias
 
-##Sobre
+## 🧑‍🎓 Sobre
 
 Projeto voltado ao front-end desenvolvido para mostrar o poder e as ferramentas do vue.js com vuetify, o projeto simula um CRUD, onde permite o cadastro de matérias, provas e alunos. A persistência de dados ocorre no localStorage, o efeito em cascata entre as entidades não foram levadas com prioridade.
 
@@ -12,12 +12,14 @@ Recomenda-se cadastrar primeiro uma matéria, logo após, uma prova para a mesma
 
 ###### Por ser uma demonstração de funcionalidades somente os alunos têm a função para serem editados (adicionar aos demais formulários não será difícil), e os formulários não apresentam uma forte validação dos dados.
 
-##Demonstração
+
+## ▶️ Demonstração
+
 Deploy: https://crud-provas.vercel.app
 
 ------------
 
-## Setup do projeto
+## ⚙️ Setup do projeto
 ```
 npm install
 ```
